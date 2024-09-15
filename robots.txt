@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nisohrot.github.io/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/app/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/assets/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/css/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/includes/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/item/sitemap.html.gz
+Sitemap: https://nisohrot.github.io/src/sitemap.html.gz
